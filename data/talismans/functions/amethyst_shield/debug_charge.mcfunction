@@ -1,0 +1,8 @@
+function talismans:amethyst_shield/charge
+function talismans:amethyst_shield/charge
+function talismans:amethyst_shield/charge
+function talismans:amethyst_shield/charge
+function talismans:amethyst_shield/charge
+function talismans:amethyst_shield/charge
+function talismans:amethyst_shield/charge
+function talismans:amethyst_shield/charge

@@ -1,0 +1,2 @@
+scoreboard players add amethyst_charges Amethyst_shield 1
+scoreboard players set movement_points Amethyst_shield 0

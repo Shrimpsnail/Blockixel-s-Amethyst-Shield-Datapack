@@ -1,0 +1,2 @@
+execute if items entity @s weapon.offhand minecraft:shield[custom_model_data=77777] run execute if score charged Amethyst_shield matches 1.. run execute if score ticks_sincebonk Amethyst_shield matches 10.. run function talismans:amethyst_shield/choose
+advancement revoke @s only talismans:bonk

@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "E#c",
+        "#DS",
+        "E#c"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "S": {
+            "item": "minecraft:shield"
+        },
+        "E": {
+            "item": "minecraft:echo_shard"
+        }
+    },
+    "result": {
+        "id": "minecraft:shield",
+        "components":{
+
+            "custom_model_data":77777
+        },
+        "count": 1
+    }
+}
