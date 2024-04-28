@@ -13,6 +13,6 @@
     }
   },
   "rewards": {
-        "function": "talismans:amethyst_shield/check"
+        "function": "blockixel:amethyst_shield/check"
     }
 }

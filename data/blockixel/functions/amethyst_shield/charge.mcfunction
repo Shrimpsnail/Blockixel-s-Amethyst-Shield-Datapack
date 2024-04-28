@@ -2,4 +2,4 @@ execute if items entity @s weapon.offhand minecraft:shield[custom_model_data=777
 execute if items entity @s weapon.offhand minecraft:shield[custom_model_data=77777] run playsound block.amethyst_block.step player @p ~ ~ ~
 
 execute as @a run particle wax_off ~ ~ ~ 1 1 1 .3 30 normal
-advancement revoke @s only talismans:charge
+advancement revoke @s only blockixel:charge
