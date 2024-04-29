@@ -27,4 +27,4 @@ execute if items entity @e weapon.offhand minecraft:shield[custom_model_data=777
 
 execute if score movement_points Amethyst_shield matches 800.. run function blockixel:amethyst_shield/movement_charge
 
-execute as @e[type=item] if items entity @s container.0 shield[custom_model_data=77777] at @s if block ~ ~-1 ~ minecraft:budding_amethyst run function blockixel:amethyst_shield/heal
+execute as @e[type=item] at @s if block ~ ~-1 ~ minecraft:budding_amethyst if items entity @s container.0 shield[custom_model_data=77777] run execute unless items entity @s container.0 shield[damage=0b] run function blockixel:amethyst_shield/heal
